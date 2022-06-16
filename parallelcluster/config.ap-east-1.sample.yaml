@@ -38,6 +38,8 @@ HeadNode:
     KeyName: ${KEY_PAIR}
   Imds:
     Secured: false
+  Dcv:
+    Enabled: true  
 Image:
   Os: alinux2
 DirectoryService:
